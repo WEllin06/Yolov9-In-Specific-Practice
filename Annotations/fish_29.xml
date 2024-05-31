@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fish</folder>
+	<filename>fish_29.jpg</filename>
+	<path>D:\ddesktop\pactera\my_projects\table_OBJ\fish_data\fish\fish_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>186</ymin>
+			<xmax>694</xmax>
+			<ymax>693</ymax>
+		</bndbox>
+	</object>
+</annotation>
