@@ -24,3 +24,6 @@ b)
 c)
 <img src="https://github.com/WEllin06/Yolov9-In-Specific-Practice/assets/131169223/1554536a-4710-4d4f-8bfc-fe25b08cb783" width="300px">
 
+Analysis of experimental results:
+Although the predicted number of fish fry is the same as the actual number of fish fry, after careful observation of the prediction result graph, this paper found that: this is because there is a certain fish fry was repeatedly predicted and counted in the prediction result (increase) or multiple fish fry overlapped and were predicted as one fish fry (decrease), so that the overall prediction result (increase+decrease=equilibrium) is the same as the actual result. This is a problem worth pondering over, and if the nature of the problem is analysed, only then it is possible to make further improvements in the various metrics of the model. And this study believes that pre-processing the image, such as: adding greyscaling,, binarization, filtering, expansion, erosion and other operations before inputting the model for training may be able to mitigate the influence of colour, shape and other features on the model error.
+
