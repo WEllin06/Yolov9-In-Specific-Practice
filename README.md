@@ -5,7 +5,7 @@ If you have any queries pertaining to Yolov9, please contact 22hylin@stu.edu.cn.
 If I receive the email you sent, I will endeavour to assist you with any queries you may have regarding the Yolov9 model process.
 
 The following section will present the current graph of the application of Yolov9 to fish fry identification and counting, as well as a graph of the optimal prediction results:
-
+< br >
 1.Pictures of fish fry to be predicted:
 
 a)
