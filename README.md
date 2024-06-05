@@ -19,10 +19,8 @@ c)
 
 a)
 <img src="https://github.com/WEllin06/Yolov9-In-Specific-Practice/assets/131169223/be67d3fd-4bda-4d99-ab48-2ea8587bbf85" width="210px">
-
 b)
 <img src="https://github.com/WEllin06/Yolov9-In-Specific-Practice/assets/131169223/c6ba771a-1691-41d0-8f65-f609176c8fae" width="210px">
-
 c)
 <img src="https://github.com/WEllin06/Yolov9-In-Specific-Practice/assets/131169223/1554536a-4710-4d4f-8bfc-fe25b08cb783" width="210px">
 
