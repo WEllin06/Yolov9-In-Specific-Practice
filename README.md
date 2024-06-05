@@ -13,19 +13,24 @@ a)
 
 
 b)
+
 ![img2](https://github.com/WEllin06/Yolov9-In-Specific-Practice/assets/131169223/16e9ac4e-faa3-44d4-a3c2-9600bd5726f1)
 
 
 c)
+
 ![img3](https://github.com/WEllin06/Yolov9-In-Specific-Practice/assets/131169223/2d188eaa-935b-4c8b-a451-e88277a97dc6)
 
 2.Fish fry identification results:
 
 a)
+
 ![img2](https://github.com/WEllin06/Yolov9-In-Specific-Practice/assets/131169223/be67d3fd-4bda-4d99-ab48-2ea8587bbf85)
 
 b)
+
 ![img](https://github.com/WEllin06/Yolov9-In-Specific-Practice/assets/131169223/c6ba771a-1691-41d0-8f65-f609176c8fae)
 
 c)
+
 ![ORIGINALIMAGE](https://github.com/WEllin06/Yolov9-In-Specific-Practice/assets/131169223/1554536a-4710-4d4f-8bfc-fe25b08cb783)
